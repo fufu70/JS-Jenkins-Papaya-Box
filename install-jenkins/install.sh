@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt-get -y install jenkins
+sudo apt-get --yes --force-yes install jenkins
 
 IP_ADDRESS=$(ifconfig eth1 | grep 'inet addr' | cut -d ':' -f 2 | cut -d ' ' -f 1)
 

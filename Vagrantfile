@@ -6,9 +6,9 @@ echo "Preparing node..."
 
 # ensure the time is up to date
 apt-get update
-apt-get -y install git
-apt-get -y install ant
-apt-get -y install ntp
+apt-get --yes --force-yes install git
+apt-get --yes --force-yes install ant
+apt-get --yes --force-yes install ntp
 service ntp stop
 ntpdate -s time.nist.gov
 service ntp start
