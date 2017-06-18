@@ -29,11 +29,11 @@ Vagrant.configure("2") do |config|
   config.vm.define 'js-jenkins-papaya-box' do |n|
     n.vm.box = 'bento/ubuntu-16.04'
     n.vm.hostname = 'js-jenkins-papaya-box'
-    n.vm.network 'private_network', ip: '192.168.205.22'
+    n.vm.network 'private_network', ip: '192.168.205.40'
     n.vm.provision :shell, inline: JENKINS_SCRIPT.dup
     n.vm.synced_folder "install-jenkins/", "/home/vagrant/install-jenkins", owner: "vagrant", group: "vagrant"
     set_hostname(n)
   end
 
-  config.vm.post_up_message = "You can access Jenkins at http://192.168.205.22:8080"
+  config.vm.post_up_message = "You can access Jenkins at http://192.168.205.40:8080"
 end
