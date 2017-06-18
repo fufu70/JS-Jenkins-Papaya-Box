@@ -118,6 +118,12 @@ A basic jenkins environment for JavaScript codebases strictly for ubuntu-16.04. 
 
 The default repository for the job is the [JS-DOM-Library](https://github.com/fufu70/JS-DOM-Library) project. It is a good aid in testing the JS-Jenkins-Papaya-Box.
 
+## Thanks to:
+
+Ariya Hidayat for the [PhantomJS project](https://twitter.com/AriyaHidayat)
+
+[Vape Nation](https://giphy.com/gifs/11kucMKnMub8Q/html5)
+
 [unlock-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/unlock-jenkins.png "Unlock Jenkins"
 [customize-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/customize-jenkins.png "Customize Jenkins"
 [plugins-installing-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/plugins-installing-jenkins.png "Plugins Installing"
@@ -129,6 +135,3 @@ The default repository for the job is the [JS-DOM-Library](https://github.com/fu
 [blocked-script-console-errors]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/blocked-script-console-errors.png "Blocked Script Console Errors"
 [script-console-execution]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/script-console-execution.png "Fix blocked script execution."
 [unblocked-font-plato]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/unblocked-font-plato.png "Fixed blocked font."
-
-[html-formatting-issue]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/html-formatting-issue.png "HTML formatting issue."
-[markup-formatter-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/markup-formatter-jenkins.png "Setting up the Markup Formatter for html inside of job descriptions"
