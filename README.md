@@ -122,7 +122,7 @@ The default repository for the job is the [JS-DOM-Library](https://github.com/fu
 
 Ariya Hidayat for the [PhantomJS project](https://twitter.com/AriyaHidayat)
 
-[Vape Nation](https://giphy.com/gifs/11kucMKnMub8Q/html5)
+[Vape Nation](https://giphy.com/gifs/11kucMKnMub8Q/html5) for ripping the fattest clouds
 
 [unlock-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/unlock-jenkins.png "Unlock Jenkins"
 [customize-jenkins]: https://raw.githubusercontent.com/fufu70/JS-Jenkins-Papaya-Box/master/common/customize-jenkins.png "Customize Jenkins"
